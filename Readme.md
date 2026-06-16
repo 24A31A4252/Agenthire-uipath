@@ -40,3 +40,21 @@ AgentHire is an AI-powered recruitment workflow that automates candidate evaluat
 * UiPath Maestro BPMN orchestration
 * Human-in-the-loop approval
 * Web dashboard
+## Architecture
+
+[Insert architecture diagram image]
+
+## Agent Flow
+
+Resume Agent
+→ Skill Agent
+→ Matching Agent
+→ Summary Agent
+→ Interview Agent
+→ Report Agent
+
+## Example Output
+
+Match Score: 71.43%
+
+Recommendation: Recommended
