@@ -1,0 +1,5 @@
+print("Resume Uploaded")
+print("Skills Extracted")
+print("Candidate Matched")
+print("Interview Questions Generated")
+print("Report Generated")

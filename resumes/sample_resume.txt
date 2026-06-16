@@ -1,0 +1,11 @@
+John Doe
+
+Skills:
+Python
+SQL
+Machine Learning
+Data Analysis
+Power BI
+
+Experience:
+2 years Data Analyst
